@@ -73,7 +73,7 @@ Going Deeper with Convolutions (Inception)
 https://arxiv.org/abs/1409.4842
 
 
-## Recurent neural network:
+## Recurrent neural network:
 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, Chung 2014
 https://arxiv.org/pdf/1412.3555v1.pdf
 
