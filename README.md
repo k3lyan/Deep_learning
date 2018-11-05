@@ -4,8 +4,8 @@ Deep learning from scratch: every deep learning engineer should have a good unde
 A good introduction to deep learning is Ian Goodfellow, Yoshua Bengio and Aaron Courville's book, that you can find here:
 https://www.deeplearningbook.org/
 
-As your general uderstanding grows, you must be interested as going deeper into some specific topics tackled by deep learning:
-Here are some articles
+As your general uderstanding grows, you must be interested as going deeper into some specific topics tackled by deep learning. Here are some fundamental research articles I suggest:
+
 ## Modern practical deep learning:
 The Marginal Value of Adaptive Gradient Methods in Machine Learning
 https://arxiv.org/abs/1705.08292
@@ -55,7 +55,7 @@ Yann LeCun, Léon Bottou, Yoshua Bengio and Patrick Haffner - 1998
 http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 
 Recepteive fields and functional architecture of monkey striate cortex
-Hubel and Wiesel 1968
+Hubel and Wiesel - 1968
 https://physoc.onlinelibrary.wiley.com/doi/pdf/10.1113/jphysiol.1968.sp008455
 
 A Neural Algorithm of Artistic Style
