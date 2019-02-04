@@ -3,7 +3,7 @@ Deep learning from scratch: every deep learning engineer should have a good unde
 
 A good introduction to deep learning is Ian Goodfellow, Yoshua Bengio and Aaron Courville's book, that you can find here:
 https://www.deeplearningbook.org/
-
+          
 As your general uderstanding grows, you must be interested as going deeper into some specific topics tackled by deep learning. Here are some fundamental research articles I suggest:
 
 ## Modern practical deep learning:
