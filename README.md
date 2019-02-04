@@ -62,7 +62,8 @@ A Neural Algorithm of Artistic Style
 https://arxiv.org/abs/1508.06576
 
 SSD: Single Shot MultiBox Detector
-https://arxiv.org/abs/1512.02325
+https://arxiv.org/abs/1512.02325     
+          
 Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)
 https://arxiv.org/abs/1409.1556
 
@@ -84,6 +85,7 @@ https://www.youtube.com/watch?v=9c4z6YsBGQ0
 Generative Adversarial Nets (Goodfellow 2014)
 https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
 Radford, A., Metz, L., and Chintala, S. (2015). 
+             
 Unsupervised representation learning with deep convolutional generative adversarial networks
 https://arxiv.org/abs/1511.06434v2
 
@@ -118,6 +120,7 @@ https://arxiv.org/abs/1409.3215
 
 A Neural Conversational Model
 https://arxiv.org/abs/1506.05869v3
+         
 Neural Machine Translation by Jointly Learning to Align and Translate (Attention)
 https://arxiv.org/abs/1409.0473
 
